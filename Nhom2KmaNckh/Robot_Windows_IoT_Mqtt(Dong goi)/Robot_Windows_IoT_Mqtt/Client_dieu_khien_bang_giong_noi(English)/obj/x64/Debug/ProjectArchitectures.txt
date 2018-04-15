@@ -1,0 +1,1 @@
+C:\Users\danht\source\repos\Robot_Windows_IoT_Mqtt\Client_dieu_khien_bang_giong_noi(English)\Client_dieu_khien_bang_giong_noi(English).csproj;x64

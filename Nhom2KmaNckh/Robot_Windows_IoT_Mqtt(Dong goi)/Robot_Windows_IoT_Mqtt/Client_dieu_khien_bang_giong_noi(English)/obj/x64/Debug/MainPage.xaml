@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="Client_dieu_khien_bang_giong_noi_English_.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Client_dieu_khien_bang_giong_noi_English_"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock x:ConnectionId='1' x:Name="txbHuongdan" HorizontalAlignment="Center" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Margin="0,272,0,0" Height="323" Width="360"/>
+        <TextBlock HorizontalAlignment="Center" Text="Điều khiển robot bằng giọng nói (tiếng Anh)" TextWrapping="Wrap" VerticalAlignment="Top" Margin="0,20,0,0" Width="360"/>
+        <TextBlock x:ConnectionId='2' x:Name="txbMqttStatus" HorizontalAlignment="Center" Margin="0,56,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="-0.08,0.513" Height="35" Width="360" FontSize="20"/>
+        <TextBlock x:ConnectionId='3' x:Name="txbNhandien" Margin="0,113,2,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="45" FontSize="16" HorizontalAlignment="Center"/>
+
+    </Grid>
+</Page>
+

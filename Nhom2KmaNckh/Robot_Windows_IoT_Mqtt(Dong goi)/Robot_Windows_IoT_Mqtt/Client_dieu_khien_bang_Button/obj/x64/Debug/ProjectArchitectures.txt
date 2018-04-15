@@ -1,0 +1,1 @@
+C:\Users\danht\source\repos\Robot_Windows_IoT_Mqtt\Client_dieu_khien_bang_Button\Client_dieu_khien_bang_Button.csproj;x64

@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="Client_dieu_khien_bang_Button.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Client_dieu_khien_bang_Button"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" HorizontalAlignment="Center">
+        <Button x:ConnectionId='1' x:Name="btnMoveForward" Content="Tiến Lên" HorizontalAlignment="Left" Margin="155,351,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.699,-0.081"                             />
+        <TextBlock HorizontalAlignment="Center" Margin="73,28,0,0" Text="Điều khiển Robot bằng nút bấm" TextWrapping="Wrap" VerticalAlignment="Top" Width="258"/>
+        <Button x:ConnectionId='2' x:Name="btnTurnleft" Content="Rẽ Trái" HorizontalAlignment="Left" Margin="47,403,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.699,-0.081"                          />
+        <Button x:ConnectionId='3' x:Name="btnTurnRight" Content="Rẽ Phải" HorizontalAlignment="Left" Margin="254,403,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.699,-0.081"                           />
+        <Button x:ConnectionId='4' x:Name="btnMoveBackward" Content="Lùi Xuống" HorizontalAlignment="Left" Margin="147,449,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.699,-0.081"                              />
+        <Button x:ConnectionId='5' x:Name="btnRotateLeft" Content="Quay Trái" HorizontalAlignment="Left" Margin="28,531,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.699,-0.081"                            />
+        <Button x:ConnectionId='6' x:Name="btnStop" Content="Dừng Lại" HorizontalAlignment="Left" Margin="147,530,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.699,-0.081"                      />
+        <Button x:ConnectionId='7' x:Name="btnRotateRight" Content="Quay Phải" HorizontalAlignment="Left" Margin="262,530,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.699,-0.081"                             />
+        <TextBlock x:ConnectionId='8' x:Name="txbHuongdan" HorizontalAlignment="Center" Margin="0,159,3,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="171" Width="357" FontSize="11"/>
+        <TextBlock x:ConnectionId='9' x:Name="txbMqttStatus" HorizontalAlignment="Left" Margin="10,119,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="25" Width="350" FontSize="20"/>
+    </Grid>
+</Page>
+

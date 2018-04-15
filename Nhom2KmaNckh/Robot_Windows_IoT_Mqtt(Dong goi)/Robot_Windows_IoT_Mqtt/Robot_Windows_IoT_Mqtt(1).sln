@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot_Windows_IoT_Mqtt", "Robot_Windows_IoT_Mqtt\Robot_Windows_IoT_Mqtt.csproj", "{CB8A2246-E3FD-4860-A3C1-871938FB00D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_dieu_khien_bang_Button", "Client_dieu_khien_bang_Button\Client_dieu_khien_bang_Button.csproj", "{521F2B2F-C674-4AE2-97B5-428F42B0BB53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_dieu_khien_bang_giong_noi(English)", "Client_dieu_khien_bang_giong_noi(English)\Client_dieu_khien_bang_giong_noi(English).csproj", "{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Debug|ARM.ActiveCfg = Debug|ARM
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Debug|ARM.Build.0 = Debug|ARM
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Debug|ARM.Deploy.0 = Debug|ARM
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Debug|x64.ActiveCfg = Debug|x64
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Debug|x64.Build.0 = Debug|x64
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Debug|x64.Deploy.0 = Debug|x64
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Debug|x86.ActiveCfg = Debug|x86
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Debug|x86.Build.0 = Debug|x86
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Debug|x86.Deploy.0 = Debug|x86
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Release|ARM.ActiveCfg = Release|ARM
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Release|ARM.Build.0 = Release|ARM
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Release|ARM.Deploy.0 = Release|ARM
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Release|x64.ActiveCfg = Release|x64
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Release|x64.Build.0 = Release|x64
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Release|x64.Deploy.0 = Release|x64
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Release|x86.ActiveCfg = Release|x86
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Release|x86.Build.0 = Release|x86
+		{CB8A2246-E3FD-4860-A3C1-871938FB00D2}.Release|x86.Deploy.0 = Release|x86
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Debug|ARM.ActiveCfg = Debug|ARM
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Debug|ARM.Build.0 = Debug|ARM
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Debug|ARM.Deploy.0 = Debug|ARM
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Debug|x64.ActiveCfg = Debug|x64
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Debug|x64.Build.0 = Debug|x64
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Debug|x64.Deploy.0 = Debug|x64
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Debug|x86.ActiveCfg = Debug|x86
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Debug|x86.Build.0 = Debug|x86
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Debug|x86.Deploy.0 = Debug|x86
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Release|ARM.ActiveCfg = Release|ARM
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Release|ARM.Build.0 = Release|ARM
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Release|ARM.Deploy.0 = Release|ARM
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Release|x64.ActiveCfg = Release|x64
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Release|x64.Build.0 = Release|x64
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Release|x64.Deploy.0 = Release|x64
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Release|x86.ActiveCfg = Release|x86
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Release|x86.Build.0 = Release|x86
+		{521F2B2F-C674-4AE2-97B5-428F42B0BB53}.Release|x86.Deploy.0 = Release|x86
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Debug|ARM.ActiveCfg = Debug|ARM
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Debug|ARM.Build.0 = Debug|ARM
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Debug|ARM.Deploy.0 = Debug|ARM
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Debug|x64.ActiveCfg = Debug|x64
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Debug|x64.Build.0 = Debug|x64
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Debug|x64.Deploy.0 = Debug|x64
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Debug|x86.ActiveCfg = Debug|x86
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Debug|x86.Build.0 = Debug|x86
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Debug|x86.Deploy.0 = Debug|x86
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Release|ARM.ActiveCfg = Release|ARM
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Release|ARM.Build.0 = Release|ARM
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Release|ARM.Deploy.0 = Release|ARM
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Release|x64.ActiveCfg = Release|x64
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Release|x64.Build.0 = Release|x64
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Release|x64.Deploy.0 = Release|x64
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Release|x86.ActiveCfg = Release|x86
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Release|x86.Build.0 = Release|x86
+		{CDFACE61-9826-49C2-AD97-E84C36E3C5C2}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D11D4D65-420E-47E3-94B9-A70A58B68819}
+	EndGlobalSection
+EndGlobal

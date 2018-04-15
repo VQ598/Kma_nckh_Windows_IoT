@@ -1,0 +1,5 @@
+<resources>
+<string name="app_name">P06</string>
+<string name="speech_prompt">Xin mời nói &#8230;</string>
+<string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+</resources>

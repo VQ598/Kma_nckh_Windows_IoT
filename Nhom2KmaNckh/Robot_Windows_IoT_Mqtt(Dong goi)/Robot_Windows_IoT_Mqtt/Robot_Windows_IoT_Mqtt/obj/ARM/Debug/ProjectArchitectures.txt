@@ -1,0 +1,1 @@
+C:\Users\danht\Desktop\Nhom2KmaNckh\Robot_Windows_IoT_Mqtt(Dong goi)\Robot_Windows_IoT_Mqtt\Robot_Windows_IoT_Mqtt\Robot_Windows_IoT_Mqtt.csproj;arm
